@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @EditaMarija
-- 👀 I’m interested in backend now
+- 👋 Hi, I’m Marija
+- 👀 I’m interested in mobile development
 - 🌱 I’m currently learning C#
 
 
